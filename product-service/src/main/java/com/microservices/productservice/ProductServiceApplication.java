@@ -10,5 +10,4 @@ public class ProductServiceApplication {
         SpringApplication.run(ProductServiceApplication.class, args);
         System.out.println("Tomcat started on http://localhost:8080/");
     }
-
 }
